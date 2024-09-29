@@ -1,0 +1,7 @@
+.env
+
+chrome-win64
+chromedriver-win64
+
+products.csv
+productsapi.csv
